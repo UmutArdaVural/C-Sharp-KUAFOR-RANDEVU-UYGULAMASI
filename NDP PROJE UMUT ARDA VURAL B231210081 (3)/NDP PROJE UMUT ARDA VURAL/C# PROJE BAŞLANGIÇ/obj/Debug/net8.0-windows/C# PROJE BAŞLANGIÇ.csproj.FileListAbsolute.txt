@@ -1,0 +1,60 @@
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.exe
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.deps.json
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.runtimeconfig.json
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.dll
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.pdb
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form1.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.csproj.GenerateResource.cache
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.AssemblyInfoInputs.cache
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.AssemblyInfo.cs
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.csproj.CoreCompileInputs.cache
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.dll
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\refint\C# PROJE BAŞLANGIÇ.dll
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.pdb
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.genruntimeconfig.cache
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\ref\C# PROJE BAŞLANGIÇ.dll
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form2.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form3.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form4.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form5.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevugörünüle.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevuoluştur6.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form6.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.tarihegörerandevu.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevusil.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevudüzenle.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.CalışanEkle.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.calısansil.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.calışanlarıgörüntüle.resources
+C:\Users\umuta\source\repos\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.calışandüzenle.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.exe
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.deps.json
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.runtimeconfig.json
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.dll
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\bin\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.pdb
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.calısansil.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.calışandüzenle.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.CalışanEkle.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.calışanlarıgörüntüle.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form1.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form2.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form3.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form4.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form5.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.Form6.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevudüzenle.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevugörünüle.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevuoluştur6.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.randevusil.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C__PROJE_BAŞLANGIÇ.tarihegörerandevu.resources
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.csproj.GenerateResource.cache
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.AssemblyInfoInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.AssemblyInfo.cs
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.csproj.CoreCompileInputs.cache
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.dll
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\refint\C# PROJE BAŞLANGIÇ.dll
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.pdb
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\C# PROJE BAŞLANGIÇ.genruntimeconfig.cache
+C:\Users\umuta\OneDrive\Masaüstü\NDP PROJE UMUT ARDA VURAL\C# PROJE BAŞLANGIÇ\obj\Debug\net8.0-windows\ref\C# PROJE BAŞLANGIÇ.dll
